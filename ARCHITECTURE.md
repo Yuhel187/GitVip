@@ -253,7 +253,8 @@ graph TD
         DS -->|Geospatial| Redis[Redis Cluster]
         DS -.->|Pub: driver:location| Redis
         TS -.->|Sub: driver:location| Redis
-    end```
+    end
+```
 ---
 
 ## 7. Cấu trúc Thư mục (Project Structure)
@@ -315,3 +316,4 @@ uit-go/
 ```
 
 ---
+
